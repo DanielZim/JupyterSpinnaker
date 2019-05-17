@@ -1,0 +1,7 @@
+Link to Tutorial:
+
+http://spinnakermanchester.github.io/spynnaker/4.0.0/RunningPyNNSimulationsonSpiNNaker-LabManual.pdf
+
+Link to website: 
+
+http://spinnakermanchester.github.io/spynnaker/4.0.0/index.html

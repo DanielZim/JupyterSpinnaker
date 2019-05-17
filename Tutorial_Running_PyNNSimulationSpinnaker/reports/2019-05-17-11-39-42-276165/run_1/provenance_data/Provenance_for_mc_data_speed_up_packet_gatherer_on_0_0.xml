@@ -1,0 +1,50 @@
+<provenance_data_items name="Provenance_for_mc_data_speed_up_packet_gatherer_on_0_0">
+  <provenance_data_items name="extraction_time">
+    <provenance_data_items name="chip0:0">
+      <provenance_data_items name="Memory_address:1616120672:Length_in_bytes:24">
+        <provenance_data_item name="iteration0">0.00020313262939453125</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1616120696:Length_in_bytes:8">
+        <provenance_data_item name="iteration0">0.00021338462829589844</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1616120784:Length_in_bytes:24">
+        <provenance_data_item name="iteration0">0.0002422332763671875</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1616120808:Length_in_bytes:80">
+        <provenance_data_item name="iteration0">0.0003085136413574219</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1616120808:Length_in_bytes:0">
+        <provenance_data_item name="iteration0">1.9073486328125e-06</provenance_data_item>
+      </provenance_data_items>
+    </provenance_data_items>
+  </provenance_data_items>
+  <provenance_data_items name="lost_seq_nums">
+    <provenance_data_items name="chip0:0">
+      <provenance_data_items name="Memory_address:1616120672:Length_in_bytes:24">
+        <provenance_data_items name="iteration0">
+          <provenance_data_item name="iteration_0">0</provenance_data_item>
+        </provenance_data_items>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1616120696:Length_in_bytes:8">
+        <provenance_data_items name="iteration0">
+          <provenance_data_item name="iteration_0">0</provenance_data_item>
+        </provenance_data_items>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1616120784:Length_in_bytes:24">
+        <provenance_data_items name="iteration0">
+          <provenance_data_item name="iteration_0">0</provenance_data_item>
+        </provenance_data_items>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1616120808:Length_in_bytes:80">
+        <provenance_data_items name="iteration0">
+          <provenance_data_item name="iteration_0">0</provenance_data_item>
+        </provenance_data_items>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1616120808:Length_in_bytes:0">
+        <provenance_data_items name="iteration0">
+          <provenance_data_item name="iteration_0">0</provenance_data_item>
+        </provenance_data_items>
+      </provenance_data_items>
+    </provenance_data_items>
+  </provenance_data_items>
+</provenance_data_items>

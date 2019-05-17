@@ -1,0 +1,2 @@
+IPTag(board_address=10.11.194.1, destination_x=0, destination_y=0, tag=1, port=None, ip_address=localhost, strip_sdp=True, traffic_identifier=DATA_SPEED_UP)
+IPTag(board_address=10.11.194.1, destination_x=0, destination_y=0, tag=2, port=None, ip_address=0.0.0.0, strip_sdp=True, traffic_identifier=BufferTraffic)
